@@ -1,0 +1,1 @@
+{"kind":"collectionType","collectionName":"greetings","info":{"singularName":"greeting","pluralName":"greetings","displayName":"Greetings","description":"A friendly greeting"},"options":{"increments":true,"timestamps":true,"draftAndPublish":true},"attributes":{"label":{"type":"string","required":true}}}

@@ -1,0 +1,1 @@
+{"kind":"singleType","collectionName":"layout","info":{"singularName":"layout","pluralName":"layouts","displayName":"Layout"},"options":{"increments":true,"timestamps":true},"attributes":{"contentSections":{"type":"dynamiczone","components":["sections.header"]}}}
